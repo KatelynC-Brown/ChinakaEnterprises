@@ -113,7 +113,7 @@ products = [
         "name": "Ankara Print Dress",
         "category": "African Clothing",
         "price": 65.00,
-        "image": "https://images.unsplash.com/photo-1591369822096-ffd140ec948f",
+        "image": "images/ankara_dress.jpg",
         "description": "Beautiful African-inspired Ankara print dress."
     },
     {
@@ -121,7 +121,7 @@ products = [
         "name": "African Print Shirt",
         "category": "African Clothing",
         "price": 45.00,
-        "image": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35",
+        "image": "images/african_shirt.jpg",
         "description": "Stylish African print shirt for everyday wear."
     },
     {
@@ -129,7 +129,7 @@ products = [
         "name": "Kente Inspired Outfit",
         "category": "African Clothing",
         "price": 85.00,
-        "image": "https://images.unsplash.com/photo-1583743814966-8936f37f4a6a",
+        "image": "images/kente_outfit.jpg",,
         "description": "Colorful Kente-inspired outfit with bold patterns."
     },
     {
@@ -137,7 +137,7 @@ products = [
         "name": "African Headwrap",
         "category": "Accessories",
         "price": 25.00,
-        "image": "https://images.unsplash.com/photo-1581044777550-4cfa60707c03",
+        "image": "images/headwrap.jpg",
         "description": "Versatile headwrap featuring vibrant African patterns."
     },
     {
@@ -145,7 +145,7 @@ products = [
         "name": "Raw Shea Butter",
         "category": "Shea Butter",
         "price": 15.00,
-        "image": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b",
+        "image": "images/shea_butter.jpg",
         "description": "Rich, natural shea butter for skin and hair care."
     },
     {
@@ -153,7 +153,7 @@ products = [
         "name": "Shea Butter Body Cream",
         "category": "Shea Butter",
         "price": 18.00,
-        "image": "https://images.unsplash.com/photo-1611930022073-b7a4ba5fcccd",
+        ""image": "images/body_cream.jpg",
         "description": "Moisturizing body cream made with shea butter."
     },
     {
@@ -161,7 +161,7 @@ products = [
         "name": "Shea Butter Hair Cream",
         "category": "Shea Butter",
         "price": 17.00,
-        "image": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e",
+        "image": "images/hair_cream.jpg",,
         "description": "Nourishing hair cream formulated with shea butter."
     },
     {
@@ -169,7 +169,7 @@ products = [
         "name": "Shea Butter Gift Set",
         "category": "Gift Sets",
         "price": 35.00,
-        "image": "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108",
+        "image": "images/gift_set.jpg",
         "description": "A beautiful gift set featuring shea butter products."
     }
 ]
