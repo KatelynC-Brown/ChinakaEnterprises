@@ -671,7 +671,7 @@ elif page == "About Us":
     st.subheader("📩 Contact Us")
 
     st.write(
-        "Email: chinakaenterprises@example.com"
+        "Email: chinakaenterprises@gmail.com"
     )
 
     st.write(
