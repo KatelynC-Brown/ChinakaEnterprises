@@ -1,0 +1,13 @@
+chinaka-enterprises/
+│
+├── app.py
+├── requirements.txt
+└── images/
+    ├── ankara_dress.jpg
+    ├── african_shirt.jpg
+    ├── kente_outfit.jpg
+    ├── headwrap.jpg
+    ├── shea_butter.jpg
+    ├── body_cream.jpg
+    ├── hair_cream.jpg
+    └── gift_set.jpg
